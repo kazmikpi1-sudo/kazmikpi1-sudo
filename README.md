@@ -7,7 +7,7 @@ They’re grouped by format for quick browsing.
 
 ### Tableau dashboards
 
-|  # | Opis                                       | Link                                                                                                                                                                                                                     |
+|  # | Description                                     | Link                                                                                                                                                                                                                     |
 | -: | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  1 | Ballard FC – simple local team dashboard   | [https://public.tableau.com/app/profile/paul.olson2357/viz/BallardFCAnalytics/PlayerDashboard](https://public.tableau.com/app/profile/paul.olson2357/viz/BallardFCAnalytics/PlayerDashboard)                             |
 |  2 | MinMaxStats – large statistical comparison | [https://public.tableau.com/app/profile/minmax.stats/viz/MinMaxStats_17273602839270/MinMaxStats](https://public.tableau.com/app/profile/minmax.stats/viz/MinMaxStats_17273602839270/MinMaxStats)                         |
@@ -18,7 +18,7 @@ They’re grouped by format for quick browsing.
 
 ### Medium / articles
 
-|  # | Opis                                                    | Link                                                                                                                                                                                                                                                                                                 |
+|  # | Description                                                     | Link                                                                                                                                                                                                                                                                                                 |
 | -: | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1 | Reproducing Google Research Football RL results         | [https://medium.com/data-science/reproducing-google-research-football-rl-results-ac75cf17190e](https://medium.com/data-science/reproducing-google-research-football-rl-results-ac75cf17190e)                                                                                                         |
 |  2 | StatsBomb Open Data – complete guide                    | [https://medium.com/@lucascarrasquillaparra/complete-guide-on-working-with-the-statsbomb-open-data-dataset-a57c26d5852b](https://medium.com/@lucascarrasquillaparra/complete-guide-on-working-with-the-statsbomb-open-data-dataset-a57c26d5852b)                                                     |
@@ -34,7 +34,7 @@ They’re grouped by format for quick browsing.
 
 ### YouTube (game understanding)
 
-|  # | Opis                            | Link                                                                                       |
+|  # | Description                             | Link                                                                                       |
 | -: | ------------------------------- | ------------------------------------------------------------------------------------------ |
 |  1 | Decision making intuition       | [https://www.youtube.com/watch?v=a80McnTr7Yg](https://www.youtube.com/watch?v=a80McnTr7Yg) |
 |  2 | New stats for player evaluation | [https://www.youtube.com/watch?v=iydcB3OM6EE](https://www.youtube.com/watch?v=iydcB3OM6EE) |
@@ -43,7 +43,7 @@ They’re grouped by format for quick browsing.
 
 ### YouTube (tutorials)
 
-|  # | Opis                  | Link                                                                                                                                                 |
+|  # | Description                   | Link                                                                                                                                                 |
 | -: | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1 | Soccermatics playlist | [https://www.youtube.com/playlist?list=PL1l4FWuN4OlHwrnVJDoKutg6VCcPhdJiq](https://www.youtube.com/playlist?list=PL1l4FWuN4OlHwrnVJDoKutg6VCcPhdJiq) |
 
@@ -51,7 +51,7 @@ They’re grouped by format for quick browsing.
 
 ### Blogs / websites
 
-|  # | Opis                                        | Link                                                             |
+|  # | Description                                         | Link                                                             |
 | -: | ------------------------------------------- | ---------------------------------------------------------------- |
 |  1 | CafeTactiques (Ben Griffis analyses)        | [https://cafetactiques.com/](https://cafetactiques.com/)         |
 |  2 | Pena.lt (mathematical approach)             | [https://pena.lt/y/](https://pena.lt/y/)                         |
@@ -63,7 +63,7 @@ They’re grouped by format for quick browsing.
 
 ### Papers / academic + industry reports
 
-|  # | Opis                                                            | Link                                                                                                                                                                                           |
+|  # | Description                                                             | Link                                                                                                                                                                                           |
 | -: | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1 | StatsBomb (2023) – clustering football situations               | [https://blogarchive.statsbomb.com/uploads/2023](https://blogarchive.statsbomb.com/uploads/2023)                                                                                               |
 |  2 | Pass clustering & graph representations (arXiv)                 | [https://arxiv.org/html/2408.07927v1#abstract](https://arxiv.org/html/2408.07927v1#abstract)                                                                                                   |
@@ -80,7 +80,7 @@ They’re grouped by format for quick browsing.
 
 ### Databases / archives
 
-|  # | Opis                      | Link                                                                     |
+|  # | Description                       | Link                                                                     |
 | -: | ------------------------- | ------------------------------------------------------------------------ |
 |  1 | StatsBomb curated archive | [https://blogarchive.statsbomb.com/](https://blogarchive.statsbomb.com/) |
 
@@ -88,7 +88,7 @@ They’re grouped by format for quick browsing.
 
 ### Streamlit apps (inspiration)
 
-|  # | Opis                                                  | Link                                                                                                                                                                   |
+|  # | Description                                                   | Link                                                                                                                                                                   |
 | -: | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1 | Footverse – Player Clone & screening                  | [https://footverse.streamlit.app/Player_Clone](https://footverse.streamlit.app/Player_Clone)                                                                           |
 |  2 | Scouting dashboard                                    | [https://scouting-dashboard.streamlit.app/](https://scouting-dashboard.streamlit.app/)                                                                                 |
@@ -108,7 +108,7 @@ They’re grouped by format for quick browsing.
 
 ### Other tools / apps (inspiration)
 
-|  # | Opis                                    | Link                                                                                                                                                                     |
+|  # | Description                                     | Link                                                                                                                                                                     |
 | -: | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  1 | One-versus-one scouting profiles        | [https://one-versus-one.com/en/scout-pro](https://one-versus-one.com/en/scout-pro)                                                                                       |
 |  2 | Simple xG visualizer                    | [https://torvaney.github.io/projects/xG.html](https://torvaney.github.io/projects/xG.html)                                                                               |

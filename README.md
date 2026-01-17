@@ -1,86 +1,113 @@
-Tableau:
+## Trying to make complex football data simple
 
-1. https://public.tableau.com/app/profile/paul.olson2357/viz/BallardFCAnalytics/PlayerDashboard - local team simple dashboard
-2. https://public.tableau.com/app/profile/minmax.stats/viz/MinMaxStats_17273602839270/MinMaxStats - large statistical comparison 
-3. https://public.tableau.com/app/profile/craig.heard/viz/UEFAFootballerProductivity/UEFAPLAYERPRODUCTIVITY_1 - xa+xg chart
-4. https://public.tableau.com/app/profile/lewis.marsden2739/viz/TheInvinciblesArsenal200304/Invincibles - arsenal invincibles shots
+Here are the resources I’m learning from and building on (dashboards, articles, papers, and tools).
+They’re grouped by format for quick browsing.
 
-Medium:
+---
 
-1. https://medium.com/data-science/reproducing-google-research-football-rl-results-ac75cf17190e - google football research tutorial
-2. https://medium.com/@lucascarrasquillaparra/complete-guide-on-working-with-the-statsbomb-open-data-dataset-a57c26d5852b - statsbomb tutorial
-4. https://medium.com/@nikhilc2209/player-and-ball-detection-using-yolov8-botsort-tracking-on-a-custom-dataset-19f84cfdacbf - roboflow yolo tutorial
-5. https://web.unibas.it/bloisi/corsi/progettivep/soccer-player-detection.html - another yolo tutorial
-6. https://footsci.medium.com/summary-by-expected-threat-xt-why-its-important-to-provide-transition-matrix-576cc4601395 - xt reinterpretation
-7. https://half-space.medium.com/space-creation-4e928f989f84 - amazing article, besides identifying line breaking passes, considering how much space player had while receiving the ball
-8. https://half-space.medium.com/in-depth-team-analysis-bayer-leverkusen-4c0b8edfe675 - xabis leverkrusen in depth analysis
+### Tableau dashboards
 
-YT game understanding: 
+1. Ballard FC – simple local team dashboard: [https://public.tableau.com/app/profile/paul.olson2357/viz/BallardFCAnalytics/PlayerDashboard](https://public.tableau.com/app/profile/paul.olson2357/viz/BallardFCAnalytics/PlayerDashboard)
+2. MinMaxStats – large statistical comparison: [https://public.tableau.com/app/profile/minmax.stats/viz/MinMaxStats_17273602839270/MinMaxStats](https://public.tableau.com/app/profile/minmax.stats/viz/MinMaxStats_17273602839270/MinMaxStats)
+3. UEFA Player Productivity – xA + xG chart: [https://public.tableau.com/app/profile/craig.heard/viz/UEFAFootballerProductivity/UEFAPLAYERPRODUCTIVITY_1](https://public.tableau.com/app/profile/craig.heard/viz/UEFAFootballerProductivity/UEFAPLAYERPRODUCTIVITY_1)
+4. Arsenal Invincibles (03/04) – shots: [https://public.tableau.com/app/profile/lewis.marsden2739/viz/TheInvinciblesArsenal200304/Invincibles](https://public.tableau.com/app/profile/lewis.marsden2739/viz/TheInvinciblesArsenal200304/Invincibles)
 
-1. https://www.youtube.com/watch?v=a80McnTr7Yg - decision making intuition
-2. https://www.youtube.com/watch?v=iydcB3OM6EE - new stats for player evaluation
+---
 
-YT tutorials:
+### Medium / articles
 
-1. https://www.youtube.com/playlist?list=PL1l4FWuN4OlHwrnVJDoKutg6VCcPhdJiq - soccermatics video explanations
+1. Reproducing Google Research Football RL results: [https://medium.com/data-science/reproducing-google-research-football-rl-results-ac75cf17190e](https://medium.com/data-science/reproducing-google-research-football-rl-results-ac75cf17190e)
+2. StatsBomb Open Data – complete guide: [https://medium.com/@lucascarrasquillaparra/complete-guide-on-working-with-the-statsbomb-open-data-dataset-a57c26d5852b](https://medium.com/@lucascarrasquillaparra/complete-guide-on-working-with-the-statsbomb-open-data-dataset-a57c26d5852b)
+3. YOLOv8 + BoT-SORT tracking tutorial: [https://medium.com/@nikhilc2209/player-and-ball-detection-using-yolov8-botsort-tracking-on-a-custom-dataset-19f84cfdacbf](https://medium.com/@nikhilc2209/player-and-ball-detection-using-yolov8-botsort-tracking-on-a-custom-dataset-19f84cfdacbf)
+4. Soccer player detection (YOLO): [https://web.unibas.it/bloisi/corsi/progettivep/soccer-player-detection.html](https://web.unibas.it/bloisi/corsi/progettivep/soccer-player-detection.html)
+5. xT summary & transition matrix context: [https://footsci.medium.com/summary-by-expected-threat-xt-why-its-important-to-provide-transition-matrix-576cc4601395](https://footsci.medium.com/summary-by-expected-threat-xt-why-its-important-to-provide-transition-matrix-576cc4601395)
+6. Space creation (receiving under space/pressure context): [https://half-space.medium.com/space-creation-4e928f989f84](https://half-space.medium.com/space-creation-4e928f989f84)
+7. In-depth team analysis – Xabi’s Leverkusen: [https://half-space.medium.com/in-depth-team-analysis-bayer-leverkusen-4c0b8edfe675](https://half-space.medium.com/in-depth-team-analysis-bayer-leverkusen-4c0b8edfe675)
 
-blogs: 
+---
 
-1. https://cafetactiques.com/ - ben griffis analyses, for example passing graphs types
-2. https://pena.lt/y/ - mathematical approach to football
-3. https://karun.in/blog/ - expected threat explanation
-4. https://medium.com/@trym.sorum - interesting football data articles
-5. https://janvanhaaren.be/ - summary of each years football analytics
-6. https://dtai.cs.kuleuven.be/sports/vaep/ - great vaep explanation 
-7. https://www.americansocceranalysis.com/home/2018/11/27/game-of-throw-ins?source=post_page-----e532844b12e--------------------------------------- - throw ins research
+### YouTube (game understanding)
 
-Papers: 
+1. Decision making intuition: [https://www.youtube.com/watch?v=a80McnTr7Yg](https://www.youtube.com/watch?v=a80McnTr7Yg)
+2. New stats for player evaluation: [https://www.youtube.com/watch?v=iydcB3OM6EE](https://www.youtube.com/watch?v=iydcB3OM6EE)
 
-1. https://blogarchive.statsbomb.com/uploads/2023 - clustering football situations
-2. https://arxiv.org/html/2408.07927v1#abstract - pass clustering and graph representations
-3. https://tomdecroos.github.io/reports/xt_vs_vaep.pdf - xt and vaep comparison 
-4. https://link.springer.com/article/10.1186/s40537-025-01239-x - measuring shared playtime impact
-databases: 
-https://blogarchive.statsbomb.com/ - statsbomb curated articles
-5. https://link.springer.com/article/10.1007/s10994-025-06935-6 - shadow covering as new measurement
-6. https://people.cs.kuleuven.be/~pieter.robberechts/repo/Oruc2023_StatsBomb_GameContext.pdf measuring team dependence on gamestate
-7. https://people.cs.kuleuven.be/~pieter.robberechts/repo/VanRoy2021_SSAC_Shooting.pdf - when the shot is optimal?
-8. https://www.mdpi.com/2076-3417/15/8/4151 - dynamic expected threat
-9. https://people.cs.kuleuven.be/~pieter.robberechts/repo/Schepers2025_MLSA_Dribble.pdf - what makes a successful dribble
-10. https://www.statsperform.com/wp-content/uploads/2021/04/Making-Offensive-Play-Predictable.pdf - disrupting opposition
+---
 
-Streamlit: 
+### YouTube (tutorials)
 
-1. https://footverse.streamlit.app/Player_Clone - player clone and screeneing 
-2. https://scouting-dashboard.streamlit.app/ - scouting app
-3. https://libertadores.streamlit.app/ simple tournament app for shots and shots against
-4. https://mclachapp.streamlit.app/Team_Profiles - teams, players and games charachteristics,comparisons, statistics and visualizations
-5. https://euro2024-dashboard-creator.onrender.com/ - simple dashboard creator
-6. https://statsbomb360-aleks-kapich.streamlit.app/ - simple statsbomb 360 visualizer 
-7. https://best11scouting.streamlit.app/Men's_App - wyscout based scouting app, great context manipulation 
-8. https://football-match-reports.streamlit.app/ - post match game posters
-9. https://3dsoccervisualizer.streamlit.app/ - very basic statsbomb 3d visualizer
-10. https://squad-performance-wiezurmtx5g2ymfqsxgbd8.streamlit.app/ - fbref based team playstyle
-11. https://mls-physical-performance.streamlit.app/ - physical performance on mls example
-12. https://football-player-analysis-emqyuanksvjb7ohjjpyqyz.streamlit.app/#weaknesses - simple statbased player analysis
-13. https://footyworld-28yzirgehunixkddhbtvnm.streamlit.app/ - football leagues comparison and characteristics, a lot of flaws though
+1. Soccermatics playlist: [https://www.youtube.com/playlist?list=PL1l4FWuN4OlHwrnVJDoKutg6VCcPhdJiq](https://www.youtube.com/playlist?list=PL1l4FWuN4OlHwrnVJDoKutg6VCcPhdJiq)
 
-Original:
+---
 
-1. https://one-versus-one.com/en/scout-pro - comparisons and advanced player profiles
-2. https://torvaney.github.io/projects/xG.html - simple xg visualizer 
-3. https://grafos-da-bola.netlify.app/ - passing graphs 
-4. https://rodmoioliveira.github.io/soccer-knockout-standings/ - simple tournament visualizer 
-5. https://formguide.vercel.app/mls/game-states - stats aggregates
-6. https://app.americansocceranalysis.com/#!/mls/goals-added/players - mls goals added rankings
-7. https://macro-football.shinyapps.io/similarity/ - 21/22 similar players finder, nice context
-8. https://harshkrishna.shinyapps.io/PlayerFinishingOverview/ - understat finishing visualizer
-9. https://mimburgio.shinyapps.io/alphonso/ - player evaluator, g+ based, player clusterization
-10. https://github.com/larsmaurath/free-kick-dashboard/blob/master/data/goal_mouth.gif - freekicks visualizer
+### Blogs / websites
 
-Taggers:
+1. CafeTactiques (Ben Griffis analyses): [https://cafetactiques.com/](https://cafetactiques.com/)
+2. Pena.lt (mathematical approach): [https://pena.lt/y/](https://pena.lt/y/)
+3. Karun.in (expected threat explanation): [https://karun.in/blog/](https://karun.in/blog/)
+4. Trym Sorum (football data articles): [https://medium.com/@trym.sorum](https://medium.com/@trym.sorum)
+5. Jan Van Haaren (annual analytics summaries): [https://janvanhaaren.be/](https://janvanhaaren.be/)
+6. KU Leuven DTAI – VAEP explainer: [https://dtai.cs.kuleuven.be/sports/vaep/](https://dtai.cs.kuleuven.be/sports/vaep/)
+7. ASA – throw-ins research: [https://www.americansocceranalysis.com/home/2018/11/27/game-of-throw-ins?source=post_page-----e532844b12e---------------------------------------](https://www.americansocceranalysis.com/home/2018/11/27/game-of-throw-ins?source=post_page-----e532844b12e---------------------------------------)
 
-1. https://fcpythontagger.netlify.app/ - simple mobile tagger
-2. https://fcpythonvideocoder.netlify.app/ - yt manual video tagger
-3. https://torvaney.github.io/projects/tracker.html - simple tagger
-4. https://johnburnmurdoch.github.io/football-pitch-tracker/ simple tagger, not very actionable
+---
+
+### Papers / academic + industry reports
+
+1. StatsBomb (2023) – clustering football situations: [https://blogarchive.statsbomb.com/uploads/2023](https://blogarchive.statsbomb.com/uploads/2023)
+2. Pass clustering & graph representations (arXiv): [https://arxiv.org/html/2408.07927v1#abstract](https://arxiv.org/html/2408.07927v1#abstract)
+3. xT vs VAEP comparison (Decroos): [https://tomdecroos.github.io/reports/xt_vs_vaep.pdf](https://tomdecroos.github.io/reports/xt_vs_vaep.pdf)
+4. Measuring shared playtime impact (Springer): [https://link.springer.com/article/10.1186/s40537-025-01239-x](https://link.springer.com/article/10.1186/s40537-025-01239-x)
+5. Shadow covering as a new measurement (Springer): [https://link.springer.com/article/10.1007/s10994-025-06935-6](https://link.springer.com/article/10.1007/s10994-025-06935-6)
+6. Team dependence on game state (Robberechts): [https://people.cs.kuleuven.be/~pieter.robberechts/repo/Oruc2023_StatsBomb_GameContext.pdf](https://people.cs.kuleuven.be/~pieter.robberechts/repo/Oruc2023_StatsBomb_GameContext.pdf)
+7. When is the shot optimal? (Robberechts): [https://people.cs.kuleuven.be/~pieter.robberechts/repo/VanRoy2021_SSAC_Shooting.pdf](https://people.cs.kuleuven.be/~pieter.robberechts/repo/VanRoy2021_SSAC_Shooting.pdf)
+8. Dynamic expected threat (MDPI): [https://www.mdpi.com/2076-3417/15/8/4151](https://www.mdpi.com/2076-3417/15/8/4151)
+9. What makes a successful dribble (Schepers 2025): [https://people.cs.kuleuven.be/~pieter.robberechts/repo/Schepers2025_MLSA_Dribble.pdf](https://people.cs.kuleuven.be/~pieter.robberechts/repo/Schepers2025_MLSA_Dribble.pdf)
+10. Disrupting opposition / making play predictable (Stats Perform): [https://www.statsperform.com/wp-content/uploads/2021/04/Making-Offensive-Play-Predictable.pdf](https://www.statsperform.com/wp-content/uploads/2021/04/Making-Offensive-Play-Predictable.pdf)
+
+---
+
+### Databases / archives
+
+1. StatsBomb curated archive: [https://blogarchive.statsbomb.com/](https://blogarchive.statsbomb.com/)
+
+---
+
+### Streamlit apps (inspiration)
+
+1. Footverse – Player Clone & screening: [https://footverse.streamlit.app/Player_Clone](https://footverse.streamlit.app/Player_Clone)
+2. Scouting dashboard: [https://scouting-dashboard.streamlit.app/](https://scouting-dashboard.streamlit.app/)
+3. Libertadores – simple tournament shots app: [https://libertadores.streamlit.app/](https://libertadores.streamlit.app/)
+4. Team Profiles (teams/players/games characteristics): [https://mclachapp.streamlit.app/Team_Profiles](https://mclachapp.streamlit.app/Team_Profiles)
+5. Euro 2024 dashboard creator: [https://euro2024-dashboard-creator.onrender.com/](https://euro2024-dashboard-creator.onrender.com/)
+6. StatsBomb 360 visualizer: [https://statsbomb360-aleks-kapich.streamlit.app/](https://statsbomb360-aleks-kapich.streamlit.app/)
+7. Best11 scouting (Wyscout-based, context manipulation): [https://best11scouting.streamlit.app/Men's_App](https://best11scouting.streamlit.app/Men's_App)
+8. Football match reports / posters: [https://football-match-reports.streamlit.app/](https://football-match-reports.streamlit.app/)
+9. StatsBomb 3D visualizer: [https://3dsoccervisualizer.streamlit.app/](https://3dsoccervisualizer.streamlit.app/)
+10. FBref-based team playstyle: [https://squad-performance-wiezurmtx5g2ymfqsxgbd8.streamlit.app/](https://squad-performance-wiezurmtx5g2ymfqsxgbd8.streamlit.app/)
+11. MLS physical performance: [https://mls-physical-performance.streamlit.app/](https://mls-physical-performance.streamlit.app/)
+12. Simple stat-based player analysis: [https://football-player-analysis-emqyuanksvjb7ohjjpyqyz.streamlit.app/#weaknesses](https://football-player-analysis-emqyuanksvjb7ohjjpyqyz.streamlit.app/#weaknesses)
+13. Footyworld – leagues comparison: [https://footyworld-28yzirgehunixkddhbtvnm.streamlit.app/](https://footyworld-28yzirgehunixkddhbtvnm.streamlit.app/)
+
+---
+
+### Other tools / apps (inspiration)
+
+1. One-versus-one scouting profiles: [https://one-versus-one.com/en/scout-pro](https://one-versus-one.com/en/scout-pro)
+2. Simple xG visualizer: [https://torvaney.github.io/projects/xG.html](https://torvaney.github.io/projects/xG.html)
+3. Passing graphs: [https://grafos-da-bola.netlify.app/](https://grafos-da-bola.netlify.app/)
+4. Tournament visualizer: [https://rodmoioliveira.github.io/soccer-knockout-standings/](https://rodmoioliveira.github.io/soccer-knockout-standings/)
+5. Game states aggregates (Formguide): [https://formguide.vercel.app/mls/game-states](https://formguide.vercel.app/mls/game-states)
+6. ASA – Goals Added rankings: [https://app.americansocceranalysis.com/#!/mls/goals-added/players](https://app.americansocceranalysis.com/#!/mls/goals-added/players)
+7. Similar players finder (Shiny): [https://macro-football.shinyapps.io/similarity/](https://macro-football.shinyapps.io/similarity/)
+8. Understat finishing visualizer: [https://harshkrishna.shinyapps.io/PlayerFinishingOverview/](https://harshkrishna.shinyapps.io/PlayerFinishingOverview/)
+9. Player evaluator (G+ based, clustering): [https://mimburgio.shinyapps.io/alphonso/](https://mimburgio.shinyapps.io/alphonso/)
+10. Free kicks visualizer (gif): [https://github.com/larsmaurath/free-kick-dashboard/blob/master/data/goal_mouth.gif](https://github.com/larsmaurath/free-kick-dashboard/blob/master/data/goal_mouth.gif)
+
+---
+
+### Taggers (manual / lightweight)
+
+1. FCPythonTagger (mobile): [https://fcpythontagger.netlify.app/](https://fcpythontagger.netlify.app/)
+2. FCPythonVideoCoder (YouTube manual tagging): [https://fcpythonvideocoder.netlify.app/](https://fcpythonvideocoder.netlify.app/)
+3. Simple tagger (Torvaney): [https://torvaney.github.io/projects/tracker.html](https://torvaney.github.io/projects/tracker.html)
+4. Football pitch tracker (Murdoch): [https://johnburnmurdoch.github.io/football-pitch-tracker/](https://johnburnmurdoch.github.io/football-pitch-tracker/)

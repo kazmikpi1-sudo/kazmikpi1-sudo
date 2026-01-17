@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="Logo" width="440" />
 </div>
 
-## Trying to make complex football data simple ⚽📊
+## Making complex football data simple ⚽📊
 
 Here are the resources I’m learning from and building on (dashboards, articles, papers, and tools).
 They’re grouped by format for quick browsing. 🧭  

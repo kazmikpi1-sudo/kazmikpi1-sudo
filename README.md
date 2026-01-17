@@ -1,12 +1,15 @@
-## Making complex football data simple
+<div align="center">
+  <img src="assests/logo.png" alt="Logo" width="220" />
+</div>
+
+## Trying to make complex football data simple ⚽📊
 
 Here are the resources I’m learning from and building on (dashboards, articles, papers, and tools).
-They’re grouped by format for quick browsing.
-Repositories are organised in starred section 
+They’re grouped by format for quick browsing. 🧭
 
 ---
 
-### Tableau dashboards
+### Tableau dashboards 📈
 
 |  # | Resource                                   | Link                                                                                                               |
 | -: | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
@@ -17,7 +20,7 @@ Repositories are organised in starred section
 
 ---
 
-### Medium / articles
+### Medium / articles ✍️
 
 |  # | Resource                                                | Link                                                                                                                                                     |
 | -: | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +36,7 @@ Repositories are organised in starred section
 
 ---
 
-### YouTube (game understanding)
+### YouTube (game understanding) 🎥
 
 |  # | Resource                        | Link                                                 |
 | -: | ------------------------------- | ---------------------------------------------------- |
@@ -42,7 +45,7 @@ Repositories are organised in starred section
 
 ---
 
-### YouTube (tutorials)
+### YouTube (tutorials) 🧑‍🏫
 
 |  # | Resource              | Link                                                                              |
 | -: | --------------------- | --------------------------------------------------------------------------------- |
@@ -50,7 +53,7 @@ Repositories are organised in starred section
 
 ---
 
-### Blogs / websites
+### Blogs / websites 🌐
 
 |  # | Resource                                    | Link                                    |
 | -: | ------------------------------------------- | --------------------------------------- |
@@ -62,7 +65,7 @@ Repositories are organised in starred section
 
 ---
 
-### Papers / academic + industry reports
+### Papers / academic + industry reports 📄
 
 |  # | Resource                                                        | Link                                                                                                 |
 | -: | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -71,7 +74,7 @@ Repositories are organised in starred section
 |  3 | xT vs VAEP comparison (Decroos)                                 | [PDF](https://tomdecroos.github.io/reports/xt_vs_vaep.pdf)                                           |
 |  4 | Measuring shared playtime impact (Springer)                     | [Open](https://link.springer.com/article/10.1186/s40537-025-01239-x)                                 |
 |  5 | Shadow covering as a new measurement (Springer)                 | [Open](https://link.springer.com/article/10.1007/s10994-025-06935-6)                                 |
-|  6 | Team dependence on game state (Robberechts)                     | [PDF](https://people.cs.kuleuven.be/~pieter.robberechts/repo/Oruc2023_StatsBomb_GameContext.pdf)     |
+|  6 | Measuring team dependence on gamestate (Robberechts)            | [PDF](https://people.cs.kuleuven.be/~pieter.robberechts/repo/Oruc2023_StatsBomb_GameContext.pdf)     |
 |  7 | When is the shot optimal? (Robberechts)                         | [PDF](https://people.cs.kuleuven.be/~pieter.robberechts/repo/VanRoy2021_SSAC_Shooting.pdf)           |
 |  8 | Dynamic expected threat (MDPI)                                  | [Open](https://www.mdpi.com/2076-3417/15/8/4151)                                                     |
 |  9 | What makes a successful dribble (Schepers 2025)                 | [PDF](https://people.cs.kuleuven.be/~pieter.robberechts/repo/Schepers2025_MLSA_Dribble.pdf)          |
@@ -79,7 +82,7 @@ Repositories are organised in starred section
 
 ---
 
-### Databases / archives
+### Databases / archives 🗃️
 
 |  # | Resource                  | Link                                         |
 | -: | ------------------------- | -------------------------------------------- |
@@ -87,7 +90,7 @@ Repositories are organised in starred section
 
 ---
 
-### Streamlit apps (inspiration)
+### Streamlit apps (inspiration) 🧪
 
 |  # | Resource                                              | Link                                                                                      |
 | -: | ----------------------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -107,7 +110,7 @@ Repositories are organised in starred section
 
 ---
 
-### Other tools / apps (inspiration)
+### Other tools / apps (inspiration) 🧰
 
 |  # | Resource                                | Link                                                                                       |
 | -: | --------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -124,7 +127,7 @@ Repositories are organised in starred section
 
 ---
 
-### Taggers (manual / lightweight)
+### Taggers (manual / lightweight) 🏷️
 
 |  # | Resource                                    | Link                                                              |
 | -: | ------------------------------------------- | ----------------------------------------------------------------- |

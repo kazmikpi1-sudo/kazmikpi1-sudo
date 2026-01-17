@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Logo" width="4400" />
+  <img src="assets/logo.png" alt="Logo" width="440" />
 </div>
 
 ## Trying to make complex football data simple ⚽📊
